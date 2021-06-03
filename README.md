@@ -1,6 +1,6 @@
-# Deepfake Detector
+# StyleGAN Detector
 
-Our Deepfake detector is a python script used to detect if an image of a human face is an image that is generated using a StyleGAN or not.
+Our StyleGAN detector is a neural network and python script used to detect if an image of a human face is an image that is generated using a StyleGAN or not.
 
 ## Dependencies
 These sets of scripts require the following to run:
